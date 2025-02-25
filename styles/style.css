@@ -123,3 +123,17 @@ body{
     }
     
 }
+
+.blog__posts {
+    margin-top: 20px;
+}
+
+.blog__post {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.blog__post h2 {
+    margin-top: 0;
+}
